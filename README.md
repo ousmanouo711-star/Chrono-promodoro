@@ -5,7 +5,7 @@ Une page web au design simpliste qui effectue un compte à rebours de 25 minutes
 - Démarage du chrono
 - Mise en pause
 - Réinitialisation
-- Alerte la fon du decompte
+- Alerte la fin du decompte
 
 ### Aperçu 
 ![Aperçu de l'app](./screenshot.png)
