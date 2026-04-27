@@ -12,4 +12,4 @@ Une page web au design simpliste qui effectue un compte à rebours. Ce projet me
 ## Utilisation
 1. Clone le repo
 ```bash
-git clone
+git clone https://github.com/ousmanouo711-star/Chrono-promodoro.git
